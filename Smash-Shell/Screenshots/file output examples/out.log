@@ -1,0 +1,10 @@
+total 60
+drwxr-xr-x 5 afuller afuller  4096 Mar 17 22:29 Screenshots
+drwxr-xr-x 2 afuller afuller  4096 Mar 17 22:27 bin
+-rw-r--r-- 1 afuller afuller    84 Mar 17 19:49 inFile
+-rw-r--r-- 1 afuller afuller  3143 Mar 17 22:25 man
+-rw------- 1 afuller afuller     0 Mar 17 22:33 out.log
+-rw-r--r-- 1 afuller afuller     4 Mar 17 22:28 paths
+-rwxr-xr-x 1 afuller afuller 22296 Mar 17 21:12 smash
+-rw-r--r-- 1 afuller afuller 15606 Mar 17 22:28 smash.c
+/home/afuller/CS537/assignment4

@@ -1,0 +1,9 @@
+total 64
+drwxr-xr-x 6 afuller afuller  4096 Mar 17 22:47 Screenshots
+drwxr-xr-x 2 afuller afuller  4096 Mar 17 22:27 bin
+-rw-r--r-- 1 afuller afuller    84 Mar 17 19:49 inFile
+-rw-r--r-- 1 afuller afuller  3221 Mar 17 22:46 man
+drwxr-xr-x 2 afuller afuller  4096 Mar 17 22:48 outputFiles
+-rw-r--r-- 1 afuller afuller     4 Mar 17 22:28 paths
+-rwxr-xr-x 1 afuller afuller 22344 Mar 17 22:45 smash
+-rw-r--r-- 1 afuller afuller 15827 Mar 17 22:47 smash.c
