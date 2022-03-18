@@ -1,2 +1,0 @@
-ls >out & pwd & ls -l  ; ls -l ; pwd >out;
-ls >out & pwd & ls -l  ; ls -l ; pwd >out
