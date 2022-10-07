@@ -14,9 +14,9 @@ DESCRIPTION
 
                      exit: Allows the user to exit the shell.
 
-                     (Not Implemented) cd [directory path] : Changes the current working directory for the shell. Returns an error if path can not be found.
+                     cd [directory path] : Changes the current working directory for the shell. Returns an error if path can not be found.
 
-                     (Not implemented) path [arg]:
+                     path [arg]:
 
                             arg list: 
                                    add [path]: Takes a path arg and appends it to the beginning of the path list. For example, path add /usr/bin results in the path list containing /usr/bin and /bin 
